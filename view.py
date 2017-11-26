@@ -5,9 +5,11 @@ from django.shortcuts import render,HttpResponse
 
 	        def africa(request):
 		        return HttpResponse('非洲xxxxxxx专区')
-<<<<<<< Updated upstream
+
 def live():
     print('加入直播的功能的bugxxxxxx的修复')
-=======
+
 #开发测试进行中
->>>>>>> Stashed changes
+
+def change():
+    print('测试功能完成一半')
