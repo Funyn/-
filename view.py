@@ -7,7 +7,7 @@ from django.shortcuts import render,HttpResponse
 		        return HttpResponse('非洲专区')
 <<<<<<< Updated upstream
 def live():
-    print('加入直播的功能的bug的修复')
+    print('加入直播的功能的bugxxxxxx的修复')
 =======
 #开发测试完成
 >>>>>>> Stashed changes
