@@ -9,5 +9,5 @@ from django.shortcuts import render,HttpResponse
 def live():
     print('加入直播的功能的bugxxxxxx的修复')
 =======
-#开发测试完成
+#开发测试进行中
 >>>>>>> Stashed changes
