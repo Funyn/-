@@ -16,3 +16,6 @@ def change():
 
 def change2():
     print('测试功能完成')
+
+def change4():
+    print('测试功能4')
