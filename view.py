@@ -16,5 +16,11 @@ def change():
 
 def change2():
     print('测试功能完成')
+<<<<<<< HEAD
 def change3():
     print('测试功能3')
+=======
+
+def change4():
+    print('测试功能4')
+>>>>>>> b84a91f0ff8b4d115b5e57513fabf429c857f140
