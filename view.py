@@ -13,3 +13,6 @@ def live():
 
 def change():
     print('测试功能完成一半')
+
+def change2():
+    print('测试功能完成')
