@@ -12,7 +12,7 @@ def live():
 #开发测试进行中
 
 def change():
-    print('测试功能完成一半')
+    print('测试功能完成')
 
 def change2():
     print('测试功能完成')
